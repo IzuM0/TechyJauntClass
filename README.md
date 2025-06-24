@@ -1,8 +1,10 @@
 # TechyJauntClass
-User Schema
-Create User
-User Signup
-user Login
-User Update
-Make user an admin
-Verify admin Right
+
+A basic authentication system with admin role support, built with Node.js, Express, and MongoDB.
+
+-User Signup
+-User Login
+-Update User Profile
+-Make User an Admin
+-Verify Admin Rights
+
